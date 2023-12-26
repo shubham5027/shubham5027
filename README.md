@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumbhar</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Comp-1.gif">
 
-[1_HpkKTeQiC9_YRz0c0yzdFA](https://github.com/shubham5027/shubham5027/assets/132193443/f7b77d3b-d51c-4201-82a6-e44ac4bc84cf)
-[1_bhFifratH9DjKqMBTeQG5A](https://github.com/shubham5027/shubham5027/assets/132193443/57324bba-babb-49e8-90a0-7ccaa5a0a37f)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
