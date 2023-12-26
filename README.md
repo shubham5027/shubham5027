@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently ** learning  Large Language Models (LLM), I believe in the potential of LLM to revolutionize how we interact with and derive insights from textual data.**
+  
+- 💬 Ask me about ** ML Projects or Deep neural networks, architectures, or any DL challenges you're facing also current trends in the fields like NLP applications**
 
-- 💬 Ask me about **Machine Learning, Deep Learning,NLP**
+- 📫 Reach out via ** a email [shubhamkumbhar4276@gmail.com]. Let's innovate, learn, and create with data!
 
-- 📫 How to reach me **shubhamkumbhar4276@gmail.com**
+**
 
 
 <h3 align="left">Connect with me:</h3>
