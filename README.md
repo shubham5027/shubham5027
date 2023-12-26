@@ -20,13 +20,12 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shubham5027"><img src="https://github-readme-stats.vercel.app/api?username=shubham5027&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shubham5027's GitHub stats" /></a>
 
-<div style="float: right;">
-  <a href="http://www.github.com/shubham5027">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham5027&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</div>
+<a href="http://www.github.com/shubham5027"><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham5027&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shubham5027's GitHub stats" /></a>
 
+<a href="http://www.github.com/shubham5027"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham5027&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/shubham5027" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham5027&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/shubham5027" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham5027&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+                  
+  
