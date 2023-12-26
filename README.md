@@ -11,7 +11,7 @@
   
 - 💬 Ask me about ** ML Projects or Deep neural networks, architectures, or any DL challenges you're facing also current trends in the fields like NLP applications**
 
-- 📫 Reach out via ** a email [shubhamkumbhar4276@gmail.com]. Let's innovate, learn, and create with data!
+- 📫 Reach out via ** a email shubhamkumbhar4276@gmail.com Let's innovate, learn, and create with data!
 
 **
 
