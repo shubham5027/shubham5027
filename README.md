@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumbhar</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*B4NL8NsOivEV0UUx8CdYZg.gif")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*B4NL8NsOivEV0UUx8CdYZg.gif">
 
 - 🌱 I’m currently learning **Large Language Models**
 
