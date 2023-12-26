@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumbhar</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*bhFifratH9DjKqMBTeQG5A.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffdoherty13.medium.com%2Fconvolutional-neural-networks-216a8061937f&psig=AOvVaw2Xr5WPdlA4QHTPDQ9sULR8&ust=1703654902086000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCYiqKvrIMDFQAAAAAdAAAAABBF">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
