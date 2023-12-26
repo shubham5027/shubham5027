@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **shubhamkumbhar4276@gmail.com**
 
-- ⚡ Fun fact **Why do machine learning models never break up? Because they always find the best fit!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
