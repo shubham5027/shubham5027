@@ -17,14 +17,79 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p align="center">
+
+<!-- OLD github-readme-stats
+<a href="https://github.com/shubham5027?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=shubham5027&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
+-->
+
+<a href="https://github.com/shubham5027?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=shubham5027&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/shubham5027?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=shubham5027&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/shubham5027?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=shubham5027&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+<a href="https://github.com/shubham5027?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=shubham5027&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+
+</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham5027&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shubham5027" /></p>
+<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham5027&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p>
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham5027&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+    <a href="https://wakatime.com/@Voko#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham5027&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham5027&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
+
+<p align="center">
+<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
+<a href="https://wakatime.com/@Voko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
+<a href="https://github.com/shubham5027?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=shubham5027&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
+<a href="https://github.com/shubham5027?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=shubham5027&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
+</p>
+
+
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham5027&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham5027&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham5027&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham5027&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
