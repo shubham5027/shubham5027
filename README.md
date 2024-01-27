@@ -1,7 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Shubham Kumbhar</h1>
-<h3 align="center">A Passionate AI/ML Engineer</h3>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Engineer;I'm+a+Data+Scientist" /></a>
+</p>
+
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 
@@ -48,19 +51,16 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://wakatime.com/@Voko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://github.com/shubham5027?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=shubham5027&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-<a href="https://github.com/shubham5027?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=shubham5027&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-</p>
-
-
-<p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham5027&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham5027&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham5027&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham5027&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p>
+
+
+
+
+
 
 
 
