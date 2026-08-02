@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Shubham Kumbhar 😎
+  <h1>I design and build scalable, production-ready AI systems from intelligent agents and RAG pipelines to enterprise automation platforms and cloud-native solutions. 😎
 </h1>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,9 +8,6 @@
 </div>
 
 <br/>
-
-## I design and build scalable, production-ready AI systems from intelligent agents and RAG pipelines to enterprise automation platforms and cloud-native solutions.
-
 ---
 
 ## 💼 Professional Highlights
