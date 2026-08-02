@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Shubham Kumbhar</h1>
+  <h1>Shubham Kumbhar 😎
+</h1>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F72EE2&center=true&vCenter=true&width=750&lines=AI+Engineer;Agentic+AI+%26+GenAI;LLMs+%7C+RAG+%7C+MLOps;Cloud+Automation+Engineer;Hackathon+Builder+%26+Problem+Solver" alt="Typing SVG" />
@@ -8,7 +9,7 @@
 
 <br/>
 
-## I build scalable, production-ready AI solutions focused on automation, intelligence, reliability, and measurable business outcomes.
+## I design and build scalable, production-ready AI systems—from intelligent agents and RAG pipelines to enterprise automation platforms and cloud-native solutions.
 
 ---
 
@@ -51,7 +52,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham5027&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" width="100%" alt="Activity Graph" />
 </p>
+<img width="480" height="420" alt="AiGIF" src="https://github.com/user-attachments/assets/110f852a-26da-49d6-9c80-a6b9a496cca1" />
 
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham5027&theme=tokyonight&hide_border=true" width="70%" alt="Profile Details" />
-</p> -->
+
