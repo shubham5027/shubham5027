@@ -25,14 +25,8 @@
 
 ---
 
-## 🎯 Expertise
+## 🎯 Agentic AI | RAG | Cloud Infra | System Design | Securtiy | MLOps | Automation 
 
-* Agentic AI & Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* Enterprise AI Automation
-* AI Governance & Security
-* Cloud Infrastructure & MLOps
-* Production-Ready AI Systems
 
 ---
 <table align="center">
