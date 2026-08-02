@@ -35,9 +35,6 @@
 * Production-Ready AI Systems
 
 ---
-
-## 📊 GitHub Analytics
-
 <table align="center">
   <tr>
     <td align="center">
