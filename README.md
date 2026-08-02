@@ -9,14 +9,14 @@
 
 <br/>
 
-## 🚀 Software Engineer at Mindsprint (A Wipro Company)
-## ♨️ Expertise in Agentic AI, RAG, Cloud Infra, System Desing, AI Automation
-## 🤖 Building Enterprise GenAI and Agentic AI solutions for business automation
-## ☁️ Co-built ToolOps for Azure, AWS, and SCOM infrastructure automation
-## 🏢 Worked with enterprise customers including Olam Agri and OFI
-## 📊 Delivered AI and data science solutions across healthcare, finance, and e-commerce
-## 🏆 Passionate hackathon builder focused on solving real-world problems
-## ⚡ Experienced in taking AI projects from proof-of-concept to production deployment
+* 🚀 Software Engineer at Mindsprint (A Wipro Company)
+* ♨️ Expertise in Agentic AI, RAG, Cloud Infra, System Desing, AI Automation
+* 🤖 Building Enterprise GenAI and Agentic AI solutions for business automation
+* ☁️ Co-built ToolOps for Azure, AWS, and SCOM infrastructure automation
+* 🏢 Worked with enterprise customers including Olam Agri and OFI
+* 📊 Delivered AI and data science solutions across healthcare, finance, and e-commerce
+* 🏆 Passionate hackathon builder focused on solving real-world problems
+* ⚡ Experienced in taking AI projects from proof-of-concept to production deployment
  
 
 ---
