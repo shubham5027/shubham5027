@@ -9,7 +9,7 @@
 
 <br/>
 
-## I design and build scalable, production-ready AI systems—from intelligent agents and RAG pipelines to enterprise automation platforms and cloud-native solutions.
+## I design and build scalable, production-ready AI systems from intelligent agents and RAG pipelines to enterprise automation platforms and cloud-native solutions.
 
 ---
 
@@ -52,6 +52,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham5027&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" width="100%" alt="Activity Graph" />
 </p>
-<img width="480" height="420" alt="AiGIF" src="https://github.com/user-attachments/assets/110f852a-26da-49d6-9c80-a6b9a496cca1" />
+
+<img width="1568" height="636" alt="Gemini_Generated_Image_1dcfgf1dcfgf1dcf" src="https://github.com/user-attachments/assets/ed9d76d4-5930-4c09-9050-a324cb07faf0" />
+
+
 
 
