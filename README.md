@@ -16,11 +16,8 @@
 
 ---
 
-## 👨‍💻 About Me
+## I'm an AI Engineer specializing in LLMs, AI agents, DevOps, and cloud automation. I build scalable, production-ready AI Solutions.. 
 
-I am an AI Engineer specializing in designing and deploying advanced machine learning models, Generative AI applications, and robust cloud infrastructures. 
-
-## 🛠️ Technologies & Tools
 
 ### Languages & Core ML
 <p align="left">
