@@ -20,13 +20,6 @@
 
 I am an AI Engineer specializing in designing and deploying advanced machine learning models, Generative AI applications, and robust cloud infrastructures. 
 
-- 🔭 **Current Focus:** Architecting state-of-the-art **Large Language Model (LLM)** solutions, building advanced **RAG (Retrieval-Augmented Generation)** pipelines, and orchestrating **Multi-Agent** frameworks.
-- ⚙️ **Tech Stack:** Heavily utilizing **LangGraph**, **LlamaIndex**, and **Azure AI Foundry** to bridge the gap between complex AI models and production-ready applications.
-- 🚀 **Open Source:** Preparing for **Google Summer of Code (GSoC) 2026**, targeting high-impact contributions in AI/ML and Cloud ecosystems.
-- ☁️ **DevOps & Cloud:** Bridging AI and operations through scalable DevOps practices and Microsoft Azure infrastructure. 
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Languages & Core ML
