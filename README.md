@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Agentic AI | RAG | Cloud Infra | System Design | Securtiy | MLOps | Automation 
+## 🎯 Agentic AI | RAG | Cloud Infra | System Design | Securtiy | MLOps | AI Automation 
 
 
 ---
