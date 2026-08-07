@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I Design and Build Scalable, Production-ready AI systems 😎
+  <h1>I Design and Build Scalable, Production-Ready AI Automations 😎
 </h1>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
